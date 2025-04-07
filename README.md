@@ -1,4 +1,6 @@
 # Amazon_Sales_Dashboard
+![Amazon Dashboard](https://github.com/user-attachments/assets/c32f065a-57d8-445e-80aa-ccebd5b2e792)
+
 ## 📊 Category-wise Insights
 ## Profit by Category:
 
