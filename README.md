@@ -1,5 +1,5 @@
 # Amazon_Sales_Dashboard
-![Amazon Dashboard](https://github.com/user-attachments/assets/c32f065a-57d8-445e-80aa-ccebd5b2e792)
+![LaLa JoJo](https://github.com/user-attachments/assets/e1f8d477-6b36-4e1a-8b42-0a6c9a3b4112)
 
 ## 📊 Category-wise Insights
 ## Profit by Category:
